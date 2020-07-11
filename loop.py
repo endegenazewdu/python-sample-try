@@ -11,3 +11,6 @@ while g<7:
  g+=1
 else:
     print ("this number is big")   
+name="endegena"
+for x in name:
+    print(x)
