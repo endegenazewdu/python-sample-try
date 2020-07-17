@@ -16,7 +16,6 @@ student={"first name":"endegena",
          "father name":"nathan",
          "grand father name":"alem",
          "age":34}
-student.pop("age") #you can crop   
+#student.pop("age") #you can crop   
 student["gender"]="male"   #you can add
-#print(student["father name"]) you can chouse which one to print
 print(student)
